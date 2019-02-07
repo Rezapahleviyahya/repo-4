@@ -1,3 +1,21 @@
 Projek 2
 
 Modul 1 (a)
+WO-App
+
+1. Modul Catering
+	a. API catering
+	b. Mockup catering
+		- viewAll catering
+		- view catering by jenis makanan
+		- tambah data catering
+	c. UI Catering
+2. Modul Hiburan
+	a. API Hiburan
+	b. Mockup Hiburan
+		- viewAll Hiburan
+		- view catering by jenis Genre musik
+		- tambah data Hiburan
+	c. UI Hiburan
+3. Modul Property
+4. Modul Transaksi
