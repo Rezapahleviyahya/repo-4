@@ -18,4 +18,15 @@ WO-App
 		- tambah data Hiburan
 	c. UI Hiburan
 3. Modul Property
+	a. API Property
+	b. Mockup Property
+		-View Property
+		-View Property by paket property
+		-tambah data property
 4. Modul Transaksi
+	a. API Transaksi
+	b. Mockup Property
+		-View Transaksi
+		-View Transaksi by jenis Transaksi
+		-Tambah data Transaksi
+		
